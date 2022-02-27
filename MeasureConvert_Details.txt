@@ -1,0 +1,24 @@
+Need to develop Measurement Conversion using PHP, CSS, and JavaScript. 
+
+This application should converts different fields like 
+    - Area, 
+    - Length (& Distance), 
+    - (Mass &) Weight, 
+    - Temperature, 
+    - Volume (& Capacity), and 
+    - Speed 
+    from one unit to another. 
+    
+    - Also, there should be some validation in the project 
+        - to make it more attractive and functioning.
+
+Steps to develop:
+
+1. There should be a menu on home screen as per the SS.
+
+2. When any of the menu items clicks, it should redirect to Actual convert dropdown screen
+
+3. There should be some validations applied for dropdown
+
+Note: Develop any of 3 would be fine out of 6 measures from menu. 
+    One can design menu by his/her choice. SS is given just for example. 
